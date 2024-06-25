@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+#text{
+    text-align: center;
+    color: white;
+}
+
+h1 {
+    text-transform: capitalize;
+    font-family: Libre Baskerville, serif;
+    
+}
+#image{
+    height: 300px;
+    width: 100%;
+    border: 4px solid white;
+    margin-top: 10%;
+    width: 30%;
+    margin-left: 35%;
+}
